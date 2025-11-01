@@ -45,6 +45,12 @@ Fill out the registration form below 👇
 *(Selection is not guaranteed — only shortlisted candidates will be invited.)*
 
 ---
+## Certificate Eligibility Announcement:
+Certificates will be awarded to participants who meet either of the following criteria:
+1) Attend at least 70% of the classes, or
+2) Attend at least 50% of the classes and submit one good project.
+
+---
 
 ## 🧑‍🏫 Organized By
 
